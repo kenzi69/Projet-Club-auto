@@ -65,16 +65,18 @@ nav ul li:hover{
 }
 /*Legende image 1*/
 h2{
+    position: relative;
+    top: 29%;
     color: white;
     position: relative;
-   
+    text-align: left;
     left: 10%;
     font-weight: bold;
   
 }
 .image1{
     background: #232628;
-    height: 50px;
+    height: 100px;
     padding: 15px;
     position: relative;
     top: 70%;
@@ -83,7 +85,7 @@ h2{
 span{
     color: #CC6119;
 }
-/* 2e image avec texte sur cote droit*/
+/* 2e image avec texte sur cote gauche*/
 
 .rounded {
     position: relative;
@@ -98,7 +100,7 @@ span{
     transform: translate(-50%:-50%) ;
 }
 
-/* 3e image */
+/* 3e image sur cote droit */
 .float-right {
     position: relative;
     left: 25%;
@@ -108,7 +110,22 @@ span{
 .text-left {
     position: relative;
     margin-top: -18%;
-    right: 30%;
+    
 }
 
-
+/* 4e image location*/
+.col-md-6 {
+  display: flex;
+  margin-left: 25%;
+  margin-top: -65%;
+}
+.card-text {
+    font-size: small;
+}
+.card-body {
+    background: #FAB637;
+    opacity: 0,8; 
+}
+.card-body1 {
+    background: #FF4848;
+}
