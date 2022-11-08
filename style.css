@@ -124,8 +124,54 @@ span{
 }
 .card-body {
     background: #FAB637;
-    opacity: 0,8; 
+    position: absolute;
+    content: "";
+    opacity: .8;
+  
 }
 .card-body1 {
     background: #FF4848;
+    position: absolute;
+    content: "";
+    opacity: .8;
+  
+    
+}
+/*image audi*/
+
+  .titre h2 {
+    text-align: center;
+    left: 2%;
+    top: 10%;
+  }
+
+.titre{
+    background: #232628;
+    height: 500px;
+    position: relative;
+    margin-top: 23%;
+    width: 100%;
+}
+.border {
+    position: relative;
+    width: 80%;
+    left: 10%;
+    margin-top: -30%;
+}
+
+/*ALIGNEMENT DES IMAGES AUDI*/
+
+.location {
+    width: 70%;
+    height: 70%;
+    margin-left: 60px;
+    margin-top: -5%;
+}
+
+.location img {
+    margin: -50px;
+}
+h6 {
+    color: #FAB637;
+
 }
