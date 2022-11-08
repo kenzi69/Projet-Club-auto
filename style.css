@@ -97,7 +97,7 @@ span{
     position: relative;
     margin-top: -18%;
     left: 50%;
-    transform: translate(-50%:-50%) ;
+   
 }
 
 /* 3e image sur cote droit */
@@ -125,17 +125,12 @@ span{
 .card-body {
     background: #FAB637;
     position: absolute;
-    content: "";
     opacity: .8;
-  
 }
 .card-body1 {
     background: #FF4848;
     position: absolute;
-    content: "";
-    opacity: .8;
-  
-    
+    opacity: .8;   
 }
 /*image audi*/
 
@@ -171,7 +166,23 @@ span{
 .location img {
     margin: -50px;
 }
-h6 {
-    color: #FAB637;
 
+
+.col p{
+    color: red;
+    margin-top: 1220%;
+    left: -130px;
+
+    position: relative;
+   
+    
+}
+.footer .container .col{
+    padding: 30px 30px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.mainfooter h3{
+    color: red;
 }
