@@ -1,0 +1,60 @@
+
+.image {
+    position: absolute;
+    width: 100%;
+    height: 20%;
+  
+ }
+ .shadow-lg {
+    width: 80%;
+    height: 400px;
+ }
+ .title {
+    color: black;
+ }
+ 
+
+
+ /*FOOTER*/
+#fin {
+   display: flex;
+   position: absolute;
+   justify-content: space-between;
+   margin-top: 30%;
+   padding: 100px;
+   background: #232628;
+   width: 100%;
+
+
+}
+
+.clubauto p {
+    position: relative;
+    font-size: small;
+}
+.clubauto span {
+    color: #6C98E1;
+}
+#fin p{
+    color: #ECEFF3;
+}
+#fin h5 {
+    color: white;
+}
+.copyright {
+    margin-left: -30%;
+    position: relative;
+    margin-top: 25%;
+}
+.copyright p {
+   position: relative;
+   left: -300px;
+   
+}
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+.imageloc h2 {
+    color: white;
+    margin-top: -10%;
+}
+/*PARTIE DE LA PAGE*/
+.section {
+    position: relative;
+    left: 125px;
+    margin-top: 7%;
+}
+hr{
+    position: relative;
+    width: 65%;
+    left: 10%;
+}
+.main {
+    position: relative;
+    margin-top: -7%;
+}
+
+.audiloc {
+    position: relative;
+    margin-top: 10%;
+    left: 125px;
+}
+.legende {
+    position: relative;
+    margin-top: -16%;
+    left: 23%;
+    
+}
+.button {
+    position: relative;
+    left: 35%;
+    margin-top: -17%;
+}
+/*2e texte audi annonce */
+.audiloc2 {
+    position: relative;
+    margin-left: 10%;
+}
+.partie2 {
+    position: relative;
+    margin-top: 10%;
+}
+.button2{
+    position: relative;
+    left: 41%;
+    margin-top: -17%;
+}
+/*3e texte audi annonce*/
+.audiloc3 {
+    position: relative;
+    margin-left: 10%;
+}
+.partie3 {
+    position: relative;
+    margin-top: 7%;
+}
+.button3{
+    position: relative;
+    left: 41%;
+    margin-top: -17%;
+}
+/*COTE DROIT DU CONTENUE*/
+.shadow {
+    position: relative;
+    width: 22%;
+    left: 77%;
+    margin-top: -75%;
+} 
+.recherche {
+    text-align: center;
+    background-color: #232628;
+    padding: 30px;
+    margin: -15px;
+    
+}
+span{
+    color: white;
+}
+.container .dropdown {
+      text-align: left;
+      position: relative;
+}
+
+.prix {
+    text-align: center;
+    justify-content: space-between;
+}
