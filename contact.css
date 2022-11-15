@@ -7,12 +7,30 @@
  }
  .shadow-lg {
     width: 80%;
-    height: 400px;
+    height: 500px;
  }
  .title {
+    position: relative;
     color: black;
+    top: 10%;
  }
- 
+ /*FORMULAIRE DE CONTACT*/
+.contact {
+    padding: 100px 100px;
+    flex-direction: column;
+}
+.contact form {
+    display: flex;   
+}
+.contact form input {
+    width: 90%;
+}
+
+.btn {
+    position: relative;
+    margin-top: 30%;
+    margin-left: -25%;
+}
 
 
  /*FOOTER*/
@@ -20,10 +38,12 @@
    display: flex;
    position: absolute;
    justify-content: space-between;
-   margin-top: 30%;
-   padding: 100px;
+   margin-top: -4%;
+   margin-left: -14%;
+   padding: 90px;
    background: #232628;
-   width: 100%;
+   width: 125%;
+  
 
 
 }

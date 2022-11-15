@@ -1,0 +1,255 @@
+/* Debut Header*/
+h1{
+    color: white;
+    padding-left: 150px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.row {
+position: absolute;
+top: 0%;
+left: 30%;
+padding: 20px;
+}
+.col-sm p{
+color: white;
+font-size: 12px;
+}
+.col-sm img{
+width: 30px;
+}
+.Telephone{
+font-weight: 700;
+font-size: 15px;
+
+}
+.Ouverture{
+font-weight: bold;
+font-size: 15px;
+}
+.col-sm span {
+color: #CC6119;
+}
+
+
+/*Nav-links*/
+*{
+list-style-type: none;
+}
+.navbar{
+width: 100%;
+height: 60px;
+background-color: #ECEFF3;
+line-height: 50px;
+
+}
+.navbar ul li{
+list-style-type: none;
+display: inline-block;
+transition: 0.4 all;
+}
+.navbar ul{
+float: right;
+margin-left: 50%;
+}
+nav ul li:hover{
+background-color: #CC6119;
+}
+
+.navbar ul li a{
+text-decoration: none;
+color: #232628;
+padding: 20px;
+font-weight: bold;
+}
+/*Legende image 1*/
+h2{
+position: relative;
+top: 29%;
+color: white;
+position: relative;
+text-align: left;
+left: 10%;
+font-weight: bold;
+
+}
+.image1{
+background: #232628;
+height: 100px;
+padding: 15px;
+position: relative;
+top: 70%;
+
+}
+span{
+color: #CC6119;
+}
+/* 2e image avec texte sur cote gauche*/
+
+.rounded {
+position: relative;
+width: 35%;
+left: 125px;
+top: 120px;
+}
+.texte1 {
+position: relative;
+margin-top: -18%;
+left: 50%;
+
+}
+
+/* 3e image sur cote droit */
+.float-right {
+position: relative;
+left: 25%;
+margin-top: -2%;
+}
+
+.text-left {
+position: relative;
+margin-top: -18%;
+
+}
+
+/* 4e image location*/
+.col-md-6 {
+display: flex;
+margin-left: 25%;
+margin-top: -65%;
+}
+.card-text {
+font-size: small;
+}
+.card-body {
+background: #FAB637;
+position: absolute;
+opacity: .8;
+}
+.card-body1 {
+background: #FF4848;
+position: absolute;
+opacity: .8;   
+}
+/*image audi*/
+
+.titre h2 {
+text-align: center;
+left: 2%;
+top: 10%;
+}
+
+.titre{
+background: #232628;
+height: 500px;
+position: relative;
+margin-top: 23%;
+width: 100%;
+}
+.border {
+position: relative;
+width: 80%;
+left: 10%;
+margin-top: -30%;
+}
+
+/*ALIGNEMENT DES IMAGES AUDI*/
+
+.location {
+width: 70%;
+height: 70%;
+margin-left: 60px;
+margin-top: -5%;
+}
+
+.location img {
+margin: -50px;
+}
+
+.footer {
+margin-top: 10%;
+width: 100%;
+height: 800px;
+background: #232628;
+
+}
+.footer1 {
+color: #232628;
+}
+.text-start {
+font-size: small;
+}
+.col-sm-8 {
+position: relative;
+margin-right: 80%;
+margin-top: 20%;
+
+}
+/*POURQUOI NOUS CHOISIR*/
+.questionnaire h2 {
+    text-align: center;
+    margin-left: -15%;
+    margin-top: 35%;
+    color: #232628;
+}
+
+.question .finance{
+    position: relative;
+    margin-top: 10%;
+    margin-left: 70px;
+}
+.equipe1 {
+    position: relative;
+    margin-top: -21%;
+    margin-left: 30%;
+}
+.clientele {
+    position: relative;
+    margin-top: -20%;
+    margin-left: 60%;
+}
+.service {
+    position: relative;
+    margin-top: -22%;
+    margin-left: 85% ;
+}
+
+.icon1{
+    width: 60px;
+}
+/*FOOTER*/
+#fin {
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    margin-top: 30%;
+    padding: 80px;
+    background: #232628;
+    width: 100%;
+ }
+ 
+ .clubauto p {
+     position: relative;
+     font-size: small;
+ }
+ .clubauto span {
+     color: #6C98E1;
+ }
+ #fin p{
+     color: #ECEFF3;
+ }
+ #fin h5 {
+     color: white;
+ }
+ .copyright {
+     margin-left: -30%;
+     position: relative;
+     margin-top: 25%;
+ }
+ .copyright p {
+    position: relative;
+    left: -300px;
+    
+ }
+ 
