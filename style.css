@@ -218,6 +218,11 @@ span{
 .icon1{
     width: 60px;
 }
+.contactez {
+    position: relative;
+    text-align: center;
+    margin-top: 5%;
+}
 
 /*FOOTER*/
 #fin {
